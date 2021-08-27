@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  26 AUG 2021 17:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  27 AUG 2021 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,51 +347,51 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 156.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 157.
  [2]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-74.
+75.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [3]
-Overfull \hbox (1.16469pt too wide) in paragraph at lines 229--230
+Overfull \hbox (1.16469pt too wide) in paragraph at lines 230--231
 []\T1/pplj/m/n/10 "Engagement Out-weighs Ex-po-sure to Par-ti-san and Un-re-li-
 able News within Google Search" with Ronald
  []
 
 [4] [5]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 315--317
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 316--318
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
 
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 318--320
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 319--321
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 324--326
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 325--327
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 327--329
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 328--330
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
 
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 336--338
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 337--339
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
 
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 339--341
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 340--342
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
@@ -416,7 +416,7 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (7 pages, 121565 bytes).
+Output written on cv_current.pdf (7 pages, 121605 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
