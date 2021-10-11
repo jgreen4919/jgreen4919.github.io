@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  11 OCT 2021 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  11 OCT 2021 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,37 +367,37 @@ able News within Google Search" with Ronald
  []
 
 [4] [5]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 355--357
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 357--359
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
 [6]
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 358--360
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 360--362
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 364--366
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 366--368
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 367--369
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 369--371
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
 
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 376--378
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 378--380
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
 
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 379--381
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 381--383
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
@@ -422,7 +422,7 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (8 pages, 124716 bytes).
+Output written on cv_current.pdf (8 pages, 124778 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
