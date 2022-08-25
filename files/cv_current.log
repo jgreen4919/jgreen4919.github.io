@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  24 AUG 2022 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  25 AUG 2022 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,59 +377,59 @@ tentId=doi:10.7910/DVN/GFE66K
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
 (Font)              Font shape `T1/pplj/m/it' tried instead on input line 165.
 [2] [3] [4] [5]
-Overfull \hbox (1.66467pt too wide) in paragraph at lines 298--299
+Overfull \hbox (1.66467pt too wide) in paragraph at lines 307--308
 []\T1/pplj/m/n/10 "Attitudes in Top-of-the-Head Open-Ended Sur-vey Re-sponses a
 nd So-cial Me-dia Posts" with Will Hobbs. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
-[6]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 404--406
+[6] [7]
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 413--415
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
-[7]
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 407--409
+
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 416--418
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 413--415
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 422--424
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 416--418
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 425--427
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
 
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 425--427
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 434--436
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
-
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 428--430
+[8]
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 437--439
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
 
-[8] [9] (./cv_current.aux)
+[9] (./cv_current.aux)
 Package rerunfilecheck Info: File `cv_current.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8773 strings out of 478994
- 129584 string characters out of 5858184
+ 8775 strings out of 478994
+ 129606 string characters out of 5858184
  435232 words of memory out of 5000000
  26098 multiletter control sequences out of 15000+600000
  437515 words of font info for 75 fonts, out of 8000000 for 9000
@@ -443,10 +443,10 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (9 pages, 132956 bytes).
+Output written on cv_current.pdf (9 pages, 133421 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 32 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
