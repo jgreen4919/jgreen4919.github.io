@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  26 AUG 2022 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  28 AUG 2022 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,62 +366,55 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Overfull \hbox (7.83888pt too wide) in paragraph at lines 120--121
-[]\T1/pplj/m/n/10 Preprint: [][]$\T1/cmtt/m/n/10 https : / / www . ipr . northw
-estern . edu / documents / working-[]papers / 2022 / wp-[]22-[]13 . pdf$[][] 
- []
-
-[1
+) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 167.
-
-[2]
-Overfull \hbox (3.25471pt too wide) in paragraph at lines 172--174
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 165.
+ [2]
+Overfull \hbox (3.25471pt too wide) in paragraph at lines 170--172
 \T1/pplj/m/n/10 Dataset URL: https://dataverse.harvard.edu/dataset.xhtml?persis
 tentId=doi:10.7910/DVN/GFE66K 
  []
 
 [3] [4]
-Overfull \hbox (1.66467pt too wide) in paragraph at lines 286--287
+Overfull \hbox (1.66467pt too wide) in paragraph at lines 284--285
 []\T1/pplj/m/n/10 "Attitudes in Top-of-the-Head Open-Ended Sur-vey Re-sponses a
 nd So-cial Me-dia Posts" with Will Hobbs. 
  []
 
 [5] [6] [7]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 420--422
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 418--420
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
 
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 423--425
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 421--423
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 429--431
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 427--429
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 432--434
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 430--432
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
 
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 441--443
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 439--441
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
 [8]
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 444--446
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 442--444
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
@@ -446,7 +439,7 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (9 pages, 133859 bytes).
+Output written on cv_current.pdf (9 pages, 133844 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  101 compressed objects within 2 object streams
