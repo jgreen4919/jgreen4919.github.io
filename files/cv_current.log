@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  26 SEP 2022 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  27 SEP 2022 20:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -362,7 +362,7 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-13.
+18.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -370,51 +370,51 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 166.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 168.
  [2]
-Overfull \hbox (3.25471pt too wide) in paragraph at lines 177--179
+Overfull \hbox (3.25471pt too wide) in paragraph at lines 182--184
 \T1/pplj/m/n/10 Dataset URL: https://dataverse.harvard.edu/dataset.xhtml?persis
 tentId=doi:10.7910/DVN/GFE66K 
  []
 
 [3] [4]
-Overfull \hbox (1.66467pt too wide) in paragraph at lines 290--291
+Overfull \hbox (1.66467pt too wide) in paragraph at lines 294--295
 []\T1/pplj/m/n/10 "Attitudes in Top-of-the-Head Open-Ended Sur-vey Re-sponses a
 nd So-cial Me-dia Posts" with Will Hobbs. 
  []
 
 [5] [6] [7]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 423--425
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 427--429
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
 
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 426--428
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 430--432
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 432--434
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 436--438
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 [8]
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 435--437
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 439--441
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
 
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 444--446
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 448--450
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
 
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 447--449
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 451--453
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
@@ -424,13 +424,13 @@ Package rerunfilecheck Info: File `cv_current.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8777 strings out of 478994
- 129624 string characters out of 5858184
- 436680 words of memory out of 5000000
- 26098 multiletter control sequences out of 15000+600000
+ 8779 strings out of 478994
+ 129646 string characters out of 5858184
+ 436683 words of memory out of 5000000
+ 26099 multiletter control sequences out of 15000+600000
  437515 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,707b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,74p,707b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
@@ -439,10 +439,10 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (10 pages, 134883 bytes).
+Output written on cv_current.pdf (10 pages, 134862 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
