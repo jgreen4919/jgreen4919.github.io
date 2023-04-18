@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  18 APR 2023 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  18 APR 2023 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,13 +377,7 @@ Overfull \hbox (3.25471pt too wide) in paragraph at lines 192--194
 tentId=doi:10.7910/DVN/GFE66K 
  []
 
-[3] [4]
-Overfull \hbox (1.66467pt too wide) in paragraph at lines 305--306
-[]\T1/pplj/m/n/10 "Attitudes in Top-of-the-Head Open-Ended Sur-vey Re-sponses a
-nd So-cial Me-dia Posts" with Will Hobbs. 
- []
-
-[5] [6] [7]
+[3] [4] [5] [6] [7]
 Overfull \hbox (11.01471pt too wide) in paragraph at lines 436--438
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
@@ -439,7 +433,7 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (10 pages, 135833 bytes).
+Output written on cv_current.pdf (10 pages, 135805 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
