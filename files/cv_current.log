@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  25 MAY 2023 08:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  31 MAY 2023 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -420,7 +420,7 @@ Package rerunfilecheck Info: File `cv_current.out' has not changed.
 Here is how much of TeX's memory you used:
  8779 strings out of 478994
  129646 string characters out of 5858184
- 435683 words of memory out of 5000000
+ 436683 words of memory out of 5000000
  26099 multiletter control sequences out of 15000+600000
  437515 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -433,7 +433,7 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (10 pages, 136183 bytes).
+Output written on cv_current.pdf (10 pages, 136277 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  106 compressed objects within 2 object streams
