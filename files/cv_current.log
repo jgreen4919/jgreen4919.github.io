@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  2 JUL 2023 08:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.26)  2 JUL 2023 08:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,6 +377,12 @@ Overfull \hbox (3.25471pt too wide) in paragraph at lines 202--204
 tentId=doi:10.7910/DVN/GFE66K 
  []
 
+
+Overfull \hbox (11.72269pt too wide) in paragraph at lines 239--240
+[]\T1/pplj/m/n/10 Working pa-per: [][]$\T1/cmtt/m/n/10 https : / / www . ipr . 
+northwestern . edu / documents / working-[]papers / 2022 / wp-[]22-[]37 .
+ []
+
 [4] [5] [6] [7]
 Overfull \hbox (11.01471pt too wide) in paragraph at lines 443--445
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
@@ -420,7 +426,7 @@ Package rerunfilecheck Info: File `cv_current.out' has not changed.
 Here is how much of TeX's memory you used:
  8778 strings out of 478994
  129635 string characters out of 5858184
- 436758 words of memory out of 5000000
+ 437758 words of memory out of 5000000
  26099 multiletter control sequences out of 15000+600000
  437515 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -433,10 +439,10 @@ live/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (10 pages, 136037 bytes).
+Output written on cv_current.pdf (10 pages, 136143 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 123 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
