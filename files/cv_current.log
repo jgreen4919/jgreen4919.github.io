@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.4)  5 OCT 2023 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.4)  6 OCT 2023 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,7 +371,7 @@ tentId=doi:10.7910/DVN/GFE66K
  []
 
 
-Overfull \hbox (41.715pt too wide) in paragraph at lines 237--238
+Overfull \hbox (41.715pt too wide) in paragraph at lines 242--243
 []\T1/pplj/m/n/10 Working pa-per: [][]$\T1/cmtt/m/n/10 https : / / www . dropbo
 x . com / s / 4u5mpegkka5mtrd / Will % 20Hobbs _ attitudes _ in _ openended _
  []
@@ -436,7 +436,7 @@ exlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/tex
 live/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (11 pages, 147361 bytes).
+Output written on cv_current.pdf (11 pages, 147437 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
