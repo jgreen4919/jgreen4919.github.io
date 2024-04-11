@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.12)  20 MAR 2024 06:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.12)  11 APR 2024 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,37 +382,37 @@ x . com / s / 4u5mpegkka5mtrd / Will % 20Hobbs _ attitudes _ in _ openended _
  []
 
 [5] [6] [7] [8]
-Overfull \hbox (11.01471pt too wide) in paragraph at lines 455--457
+Overfull \hbox (11.01471pt too wide) in paragraph at lines 464--466
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2021/07/27/people-
 are-more-anti-vaccine-if-they-get-
  []
 
 
-Overfull \hbox (17.08469pt too wide) in paragraph at lines 458--460
+Overfull \hbox (17.08469pt too wide) in paragraph at lines 467--469
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/politics/2020/10/20/these-9
 -swing-states-will-see-biggest-blue-
  []
 
 
-Overfull \hbox (10.7547pt too wide) in paragraph at lines 464--466
+Overfull \hbox (10.7547pt too wide) in paragraph at lines 473--475
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2020/2/4/what-can-we-
 learn-from-asking-people-to-talk-
  []
 
 
-Overfull \hbox (15.46468pt too wide) in paragraph at lines 467--469
+Overfull \hbox (15.46468pt too wide) in paragraph at lines 476--478
 \T1/pplj/m/n/10 URL: https://www.dataforprogress.org/blog/2019/7/11/what-attrib
 utes-do-democratic-primary-voters-
  []
 
-
-Overfull \hbox (25.1447pt too wide) in paragraph at lines 476--478
+[9]
+Overfull \hbox (25.1447pt too wide) in paragraph at lines 485--487
 \T1/pplj/m/n/10 URL: https://thewpsa.wordpress.com/2018/05/31/not-fake-news-nav
 igating-competing-claims-regarding-
  []
 
-[9]
-Overfull \hbox (20.02466pt too wide) in paragraph at lines 479--481
+
+Overfull \hbox (20.02466pt too wide) in paragraph at lines 488--490
 \T1/pplj/m/n/10 URL: https://www.washingtonpost.com/news/monkey-cage/wp/2018/01
 /01/it-sure-looks-as-if-kirsten-
  []
@@ -422,8 +422,8 @@ Package rerunfilecheck Info: File `cv_current.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9238 strings out of 476025
- 146125 string characters out of 5790017
+ 9239 strings out of 476025
+ 146136 string characters out of 5790017
  1863388 words of memory out of 5000000
  29519 multiletter control sequences out of 15000+600000
  546372 words of font info for 80 fonts, out of 8000000 for 9000
@@ -435,10 +435,10 @@ exlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/tex
 live/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_current.pdf (11 pages, 147899 bytes).
+Output written on cv_current.pdf (11 pages, 148324 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
