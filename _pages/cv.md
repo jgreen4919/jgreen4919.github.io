@@ -10,6 +10,6 @@ redirect_from:
 <object class="pdf" 
             data=
 "https://jgreen4919.github.io/files/cv_current.pdf"
-            width="800"
-            height="600">
+            width="700"
+            height="500">
     </object>
