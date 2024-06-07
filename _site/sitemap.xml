@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jon-green-first-post/</loc>
+<lastmod>2020-06-11T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/files/cv_current.pdf</loc>
+<lastmod>2024-06-05T11:22:15-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/syllabi/POLSCI_116D_duke_fall_2023.pdf</loc>
+<lastmod>2023-08-29T09:57:20-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/syllabi/POLSCI_242D_duke_fall_2023.pdf</loc>
+<lastmod>2023-09-06T08:38:16-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/syllabi/insh_6300_NEU_spring_2023.pdf</loc>
+<lastmod>2023-08-03T06:08:26-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/syllabi/pols_5660_NEU_spring_2022.pdf</loc>
+<lastmod>2023-08-03T06:08:26-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2024-06-07T11:28:53-07:00</lastmod>
+</url>
+</urlset>
