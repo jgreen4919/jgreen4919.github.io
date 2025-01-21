@@ -1,11 +1,11 @@
 ---
 title: "Curation Bubbles"
 collection: publications
-permalink: /publication/2024-curation-bubbles
+permalink: /publication/2025-curation-bubbles
 excerpt: "Aligning theory and measurement in political information sharing on social media."
-date: 2024-05-30
+date: 2025-01-20
 venue: "American Political Science Review"
-paperurl: "https://osf.io/vbwer"
+paperurl: "https://www.cambridge.org/core/journals/american-political-science-review/article/curation-bubbles/EBEBDE88633A86DFC821FE86B7708BB3"
 citation: "Green, Jon, Stefan McCabe, Sarah Shugars, Hanyu Chwe, Luke Horgan, Shuyang Cao, and David Lazer. &quot;Curation Bubbles.&quot; Accepted, <i>American Political Science Review</i>."
 ---
 
