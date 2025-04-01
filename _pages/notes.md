@@ -10,9 +10,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.posts reversed %}
-  <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url }}">Read more →</a>
-    </li>
+  {% include archive-single.html %}
 {% endfor %}
