@@ -1,7 +1,7 @@
 ---
 title: "Categorizing Topics Versus Inferring Attitudes: A Theory and Method for Analyzing Open-ended Survey Responses"
 collection: publications
-permalink: /publication/2025-attitudes-open-endeds
+permalink: /publication/2024-attitudes-open-endeds
 excerpt: "A theory and method for inferring attitudes in open-ended survey responses and other short text documents."
 date: 2025-01-24
 venue: "Political Analysis"
