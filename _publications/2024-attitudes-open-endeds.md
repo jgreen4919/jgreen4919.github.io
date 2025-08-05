@@ -3,7 +3,7 @@ title: "Categorizing Topics Versus Inferring Attitudes: A Theory and Method for 
 collection: publications
 permalink: /publication/2024-attitudes-open-endeds
 excerpt: "A theory and method for inferring attitudes in open-ended survey responses and other short text documents."
-date: 2025-01-24
+date: 2024-12-31
 venue: "Political Analysis"
 paperurl: "https://www.cambridge.org/core/journals/political-analysis/article/categorizing-topics-versus-inferring-attitudes-a-theory-and-method-for-analyzing-openended-survey-responses/86230308E694A8DF24EA89FF3A451162"
 citation: "Hobbs, William, and Jon Green. 2024. &quot;Categorizing Topics Versus Inferring Attitudes: A Theory and Method for Analyzing Open-ended Survey Responses.&quot; <i>Political Analysis</i>, FirstView."
