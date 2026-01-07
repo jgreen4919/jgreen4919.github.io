@@ -8,6 +8,6 @@ date: 2026-01-01
 location: "Durham, NC"
 ---
 
-This course is a graduate seminar in American Politics, covering classic and cutting-edge research concerning foundations, institutions, and political behavior in the United States.
+This is a graduate seminar developed primarily for PhD students in political science or related fields, though it is open to advanced undergraduates as well. Successful students will not only deepen their substantive understanding of US politics, they will develop their professional skills in the social sciences more broadly. This includes the ability to critically engage with scholarship, pose and refine research questions, identify data and methodological approaches that answer those questions, and communicate those answers both in writing and in person.
 
 The most recent syllabus can be found [here](https://jgreen4919.github.io/files/syllabi/POLSCI_620_duke_spring_2026.pdf).
