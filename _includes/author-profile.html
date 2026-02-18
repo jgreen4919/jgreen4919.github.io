@@ -50,6 +50,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
       {% endif %}
+      {% if author.empsite %}
+        <li><a href="{{ author.empsite }}"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>Employer Page</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
