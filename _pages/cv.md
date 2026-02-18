@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<p><a href="https://jgreen4919.github.io/files/cv_current.pdf">Download CV (PDF)</a></p>
-
 <style>
   .cv-embed {
     width: 100%;
