@@ -28,8 +28,6 @@ redirect_from:
   }
 </style>
 
-<object class="cv-embed" data="https://jgreen4919.github.io/files/cv_current.pdf" type="application/pdf">
-  <p>Your browser does not support embedded PDFs. <a href="https://jgreen4919.github.io/files/cv_current.pdf">Download the CV here.</a></p>
-</object>
+<iframe class="cv-embed" src="https://jgreen4919.github.io/files/cv_current.pdf" title="CV"></iframe>
 
 <p class="cv-mobile-msg">PDF embedding is not supported on small screens. Please use the download link above.</p>
