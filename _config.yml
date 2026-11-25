@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jon Green / Personal Website"
+title                    : "Jon Green"
 title_separator          : "-"
 name                     : &name "Jon Green"
 description              : &description "Assistant Professor, Department of Political Science, Duke University"
@@ -172,6 +172,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "files/*.tex"
 keep_files:
   - .git
   - .svn

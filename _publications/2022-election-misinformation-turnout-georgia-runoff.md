@@ -5,7 +5,7 @@ permalink: /publication/2022-election-misinformation-turnout-georgia-runoff
 excerpt: "Finds relationships between public engagement with 2020 election conspiracy theories on Twitter and turnout in the 2021 Georgia runoff election."
 date: 2022-08-16
 venue: "Proceedings of the National Academy of Sciences"
-paperurl: "https://www.pnas.org/doi/full/10.1073/pnas.2115900119r"
+paperurl: "https://www.pnas.org/doi/full/10.1073/pnas.2115900119"
 citation: "Green, Jon, William Hobbs, Stefan McCabe, and David Lazer. 2022. &quot;Online Engagement with 2020 Election Misinformation and Turnout in the 2021 Georgia Runoff Election.&quot; <i>Proceedings of the National Academy of Sciences</i> 119(34): e2115900119."
 ---
 
