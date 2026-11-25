@@ -5,7 +5,9 @@
 .masthead {
   position: fixed;
   background: white;
+  border-top: 4px solid $primary-color;
   border-bottom: 1px solid $border-color;
+  box-shadow: 0 1px 6px rgba(#000, 0.04);
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -54,5 +56,11 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+
+    a {
+      font-family: $header-font-family;
+      font-size: 1.15em;
+      color: $primary-color !important;
+    }
   }
 }

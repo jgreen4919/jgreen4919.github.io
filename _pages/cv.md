@@ -24,8 +24,13 @@ redirect_from:
   .cv-mobile-msg {
     display: none;
   }
+  .cv-download {
+    margin-bottom: 1.25em;
+  }
 </style>
 
-<iframe class="cv-embed" src="https://jgreen4919.github.io/files/cv_current.pdf" title="CV"></iframe>
+<p class="cv-download"><a class="btn" href="/files/cv_current.pdf" download><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)</a></p>
 
-<p class="cv-mobile-msg">PDF embedding is not supported on small screens. Please use the download link above.</p>
+<iframe class="cv-embed" src="/files/cv_current.pdf" title="CV"></iframe>
+
+<p class="cv-mobile-msg">PDF embedding is not supported on small screens. Please use the download button above.</p>
